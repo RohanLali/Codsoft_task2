@@ -1,0 +1,2 @@
+# Codsoft_task2
+SALES PREDICTION USING PYTHON
